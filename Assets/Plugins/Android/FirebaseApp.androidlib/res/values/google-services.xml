@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://entrep-2024-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">543886091497</string>
+  <string name="google_storage_bucket" translatable="false">entrep-2024.appspot.com</string>
+  <string name="project_id" translatable="false">entrep-2024</string>
+  <string name="google_api_key" translatable="false">AIzaSyB1fgZGJFqe6J0-q_1L1j-0pgS1FrTTtaU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1fgZGJFqe6J0-q_1L1j-0pgS1FrTTtaU</string>
+  <string name="google_app_id" translatable="false">1:543886091497:android:89b5d3aabe38b857283c78</string>
+</resources>

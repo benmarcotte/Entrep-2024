@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "543886091497",
+    "firebase_url": "https://entrep-2024-default-rtdb.firebaseio.com",
+    "project_id": "entrep-2024",
+    "storage_bucket": "entrep-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543886091497:android:89b5d3aabe38b857283c78",
+        "android_client_info": {
+          "package_name": "com.EngGamesConcordia.Entrep2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fgZGJFqe6J0-q_1L1j-0pgS1FrTTtaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
