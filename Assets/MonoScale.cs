@@ -25,6 +25,18 @@ public class MonoScale : MonoBehaviour
         expiryDate = GetComponentsInChildren<Text>()[4];
         expiryDate.text = DateTime.Now.AddDays(UnityEngine.Random.Range(1, 10)).ToShortDateString();
         //weight = GetComponentsInChildren<Text>()[4];
+
+        //change size
+        scaleID.fontSize = 15;
+        weight.fontSize = 15;
+        entryDate.fontSize = 15;
+        expiryDate.fontSize = 15;
+
+        //change color
+        scaleID.color = Color.white;
+        weight.color = Color.white;
+        entryDate.color = Color.white;
+        expiryDate.color = Color.white;
     }
 
     // Update is called once per frame
